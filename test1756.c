@@ -29,7 +29,6 @@ int main() {
 
 		create_Node(id, name);
 	}
-
 	/* 
 	  prin의 link을 따라가며 node의 st_id와 st_name을 출력 (5회) 
 	*/
